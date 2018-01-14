@@ -56,3 +56,4 @@ y = [left_bottom[1], right_bottom[1], apex[1], left_bottom[1]]
 plt.plot(x, y, 'b--', lw=4)
 plt.imshow(color_select)
 plt.imshow(line_image)
+
